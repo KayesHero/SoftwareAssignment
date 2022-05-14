@@ -10,10 +10,12 @@ public class AddTwoNumbers {
         int var1,var2;
 
 
-
+        int pl1, pl2,div;
+        div= pl1/pl2; 
         System.out.println("Sum of these numbers: "+sum);
         System.out.println("Sum of these numbers: "+mul);
         System.out.println("hello again");
+        System.out.println("division "+div);
 
     }
 }
