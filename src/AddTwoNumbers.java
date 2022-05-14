@@ -7,7 +7,7 @@ public class AddTwoNumbers {
 
         mul = num1*num2;
 
-        int var1;
+        int var1,var2;
 
 
 
