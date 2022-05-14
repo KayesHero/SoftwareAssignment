@@ -7,13 +7,19 @@ public class AddTwoNumbers {
 
         mul = num1*num2;
 
-        int var1,var2;
+        system.out.println("enter subtracting numbers: ")
+
+        int var1,var2,sum2;
+        sum2= var1 - var2;
+
 
 
 
         System.out.println("Sum of these numbers: "+sum);
         System.out.println("Sum of these numbers: "+mul);
         System.out.println("hello again");
+        System.out.println("subtraction result: "+sum2);
+        
 
     }
 }
